@@ -23,7 +23,7 @@ This is a **Job Portal** web application built using **React.js and Tailwind CSS
 To run this project on your local machine:
 
 ```sh
-git clone https://github.com/friend-username/job-portal.git
+git clone https://github.com/RajeevSaiAditya/ZitharaFrontendAssign
 cd job-portal
 npm install
 npm start
