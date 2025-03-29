@@ -27,3 +27,6 @@ git clone https://github.com/RajeevSaiAditya/ZitharaFrontendAssign
 cd job-portal
 npm install
 npm start
+
+## 🌐 Live Demo
+[Click Here](http://localhost:3000)
